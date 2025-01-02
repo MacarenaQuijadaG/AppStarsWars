@@ -7,8 +7,6 @@ Aplicación nos muestra todos los personajes de las peliculas de stars wars
 ## Empezando 🚀
 
 Estas instrucciones te guiarán para obtener una copia de este proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
-
-
 ### Instalación 🔧
 
 Una guía paso a paso sobre cómo configurar el entorno de desarrollo e instalar todas las dependencias.
